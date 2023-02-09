@@ -24,5 +24,6 @@ function sumar(num1, num2) {
     return resultado;
 }
 
+// llamado a funciones
 restar(n1, n2);
 sumar(n1, n2);
